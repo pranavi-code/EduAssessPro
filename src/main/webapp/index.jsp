@@ -59,7 +59,6 @@
 </head>
 <body>
     <div class="container">
-    <!-- hello kmit-->
         <h1>Edu Assessment Pro</h1>
         <p>Welcome! Get started with registration or login to continue.</p>
 
